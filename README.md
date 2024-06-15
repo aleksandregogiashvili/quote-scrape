@@ -1,1 +1,1 @@
-# quote-scrape
+The "Quotes to Scrape" website's quotes, authors, and tags are scraped using a Python web scraper developed for this project. It extracts information by scraping the first five pages and stores the data in a CSV file.
